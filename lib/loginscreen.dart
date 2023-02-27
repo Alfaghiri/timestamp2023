@@ -1,5 +1,8 @@
-//import 'package:email_password_login/screens/home_screen.dart';
-//import 'package:email_password_login/screens/registration_screen.dart';
+/* 
+ @authors:
+ Abdul Wahhab Alfaghiri Al Anzi   01524445
+ Nouzad Mohammad                  00820679
+*/
 import 'dart:async';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';

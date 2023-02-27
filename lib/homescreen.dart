@@ -1,3 +1,8 @@
+/* 
+ @authors:
+ Abdul Wahhab Alfaghiri Al Anzi   01524445
+ Nouzad Mohammad                  00820679
+*/
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'usermodel.dart';
 import 'package:firebase_auth/firebase_auth.dart';
